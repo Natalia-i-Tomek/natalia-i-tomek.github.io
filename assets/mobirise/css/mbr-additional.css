@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Tangerine:400,700);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=BioRhyme:300,300i,400,400i,500,500i,700,700i,900,900i);
+/* @import url(https://fonts.googleapis.com/css?family=BioRhyme:300,300i,400,400i,500,500i,700,700i,900,900i); */
 
 
 
@@ -35,21 +36,21 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'BioRhyme', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'BioRhyme', sans-serif;
   font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.88rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'BioRhyme', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -611,7 +612,7 @@ a:hover {
   transform: rotate(135deg);
 }
 /* Others*/
-.note-check a[data-value=Rubik] {
+.note-check a[data-value=BioRhyme] {
   font-style: normal;
 }
 .mbr-arrow a {
@@ -654,7 +655,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'BioRhyme', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
