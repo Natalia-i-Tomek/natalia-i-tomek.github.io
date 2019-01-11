@@ -1371,7 +1371,7 @@ body {
   display: none;
 }
 .cid-qIia8mgjVj {
-  background-image: url("../../../assets/images/header.jpg");
+  background-image: url("../../../assets/my.jpg");
 }
 .cid-qIieWoha50 {
   padding-top: 60px;
@@ -1415,7 +1415,12 @@ body {
 .cid-qIicQ8Vcwz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/destination-wedding.jpg");
+  background-image: url("../../../assets/wesele.png");
+}
+.cid-qIicQ8Vcwz-babette {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../babette.jpg");
 }
 .cid-qIicQ8Vcwz H2 {
   color: #ffffff;
